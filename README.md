@@ -1,1 +1,1 @@
-# codewars-solution
+# My solution to some codewar challenges
